@@ -1,0 +1,4 @@
+name: The_Great_Manhattan_Purchase
+description: A sample web application
+dependencies:
+  browser: any
